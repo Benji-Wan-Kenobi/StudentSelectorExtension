@@ -17,5 +17,8 @@ Ben McFarland, Nathan Jesudason, and Noah Wager
 [https://www.w3schools.com/js/js_switch.asp](https://www.w3schools.com/js/js_switch.asp)
 [https://stackoverflow.com/questions/2858121/convert-comma-separated-string-to-array](https://stackoverflow.com/questions/2858121/convert-comma-separated-string-to-array)
 
-# Created by team BNN News:
-![alt text](https://github.com/Benji-Wan-Kenobi/StudentSelectorExtension/blob/master/BNN%20News%20Logo.png)
+#Algorithm/ How to Use
+This is the basics of how our program selects students. There are other processes in our program, such as class selection.
+![Algorithm](https://github.com/NathanJesudason/StudentSelectorExtension/raw/master/Flowchart.png)
+
+The extension works by organizing different lists by class. To switch between classes you must choose from the drop down list and select.
